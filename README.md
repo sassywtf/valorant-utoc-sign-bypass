@@ -14,7 +14,7 @@ Mods built with incorrect or outdated mappings will not load.
 ## Installation
 
 1. Create the following directory:
-
+C:\mods
 2. Place your mod files inside this folder.
 
 ## Example Structure
